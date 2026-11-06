@@ -26,10 +26,6 @@ python3 -m http.server 8000
 
 ثم افتح <http://localhost:8000>.
 
-## النشر
-
-يمكن نشره مباشرة عبر GitHub Pages من إعدادات المستودع: **Settings → Pages → Deploy from a branch → main → / (root)**.
-
 ## الترخيص
 
 MIT — استخدمه وعدّله وانشره بحرية.
